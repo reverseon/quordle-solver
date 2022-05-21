@@ -9,8 +9,11 @@ Jalankan `python interactive.py` di direktori untuk memulai program.
 ## Contoh Expected Input dan Output
 
 Quordle:
+
 ![Quordle](https://i.ibb.co/VSWkfxY/quordless.png)
+
 Program:
+
 ```
 Quordle Solver
 --------------
